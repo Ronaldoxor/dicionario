@@ -40,7 +40,7 @@ alunos = {}
 # Coleta as informações de cada aluno
 for n in range(5):
     notas = []  # Lista de notas de cada aluno
-    rm = input('rm: ')
+    rm = input('Digite seu rm: ')
     for n in range(3):
         nota1 = float(input(f'Informe a {n + 1} nota: '))
         notas.append(nota1)
