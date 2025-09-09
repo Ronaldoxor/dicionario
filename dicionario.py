@@ -78,4 +78,4 @@ dicionario5 = {'Banana' : 3.00,
 if 'Abacaxi' in dicionario5:
     print('A chave existe no dicionário')
 else:
-    print('A chave não existe no dicionárioCK')
+    print('A chave não existe no dicionário')
